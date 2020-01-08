@@ -140,7 +140,6 @@ padding: 10px;
 width: 60%;
 transition: all 0.5s;
 cursor: pointer;
-margin: 70px 100px 15px;
 }
 
   h6 {
@@ -226,6 +225,9 @@ margin: 70px 100px 15px;
     }
     
     .button {
-      margin: 10px 10px 35px 20%;
+      margin-top: 60px;
+      margin-bottom: 3%;
+      margin-left: 20%;
+      
     }
 }
