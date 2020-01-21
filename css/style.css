@@ -197,8 +197,7 @@ cursor: pointer;
 
     .card {
       flex-direction: column;
-      padding-left: 10%;
-      padding-right: 10%;
+      margin-bottom: 30px;
       box-shadow: 0px 0px 0px 0px;
     
     }
@@ -228,6 +227,26 @@ cursor: pointer;
       margin-top: 60px;
       margin-bottom: 3%;
       margin-left: 20%;
-      
     }
+}
+
+.backgroundcolorfooter {
+color: black;
+}
+
+.footer {
+  position:relative;
+  left: 0;
+  bottom: 0px;
+  width: 100%;
+  background-color:gray;
+  height: 100px;
+  color: white;
+  text-align: center;
+  padding-top: 40px;
+}
+
+.alert {
+  width: 100%;
+  text-align: center ;
 }
